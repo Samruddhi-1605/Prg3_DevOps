@@ -4,6 +4,6 @@ class Sum{
     System.out.println("The value is:"+z);
   }
   public static void main(String[] args){
-    add(10,6);
+    add(10,8);
   }
 }
